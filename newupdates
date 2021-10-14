@@ -1,9 +1,15 @@
-- 213 error fixed
-- Fix(sql): tinyint
-- Tempfix(client/main.lua)
-- Moved Notification Event for Inventory Wipe
-- Updated all events to the new RegisterNetEvent and got rid of unneeded handlers
-- Whatsapp Messages fix
-- Update fxmanifest.lua
-- Added Discord rich
-- Added QBCore doc
+10/12
+
+- Added invoices to player F1 radial > Player Interactions.
+- Invoices are fully updated to display correct currency and player names.
+- iFruit store robbery is working as intended again > 1 cop min required.
+
+10/11
+
+Mining Changes
+- Removed all steel, iron, copper and aluminum resources.
+- Added resource Ore Pile
+- Increased mining output slightly
+
+Workbench | Smelter Changes
+- Added process (mined resources) Ore Pile > Metalscrap
