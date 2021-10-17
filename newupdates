@@ -2,6 +2,26 @@ DISCORD | https://discord.gg/MZUVS97pjP
 
 NEW Loading Screen - Known BUG | Wierd PED drop before character screen.
 
+Update 10/17
+- Hunting is fully functional.
+- Fishing is fully functional.
+
+Hunting
+- Marker for active hunting area located in the mountains map# 167 | 168 | 169.
+- Marker for hunting shop to sell legal leather located at map# 049.
+- No maker for illegal leather sell location... happy hunting! :2302_pepe_tongue: 
+- Legal leather is deer, boar and rabbit | illegal leather is mountain lion, cormorant and chickenhawk.
+- Bait is available in hunting shop.
+- A knife is required to skin your hunt!
+- Different weapon types determine yield quality of pelt.
+
+Fishing
+- Marker for active fishing start area located at Del Perro Pier map# 688.
+- Marker  to sell fish located at map# 696.
+- A fishing rod is required to fish! Sold at hunting shop map# 049.
+- Small deposit taken at boat rental guy, to return get close to the rental guy to return and receive deposit.
+- You will need to anchor your boat to fish and un-anchor as well when ready to travel again, command /anchor
+
 10/12
 
 - Added invoices to player F1 radial > Player Interactions.
