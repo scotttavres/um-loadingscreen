@@ -1,7 +1,24 @@
 DISCORD | https://discord.gg/MZUVS97pjP 
 (case sensitive invite code)
 
-NEW Loading Screen!
+
+Update 10/25
+Drug Dealing 
+- New corner selling
+- NPC interaction (3) outcomes
+1 . Purchase option
+2. Call cops
+3. Rob/ kill you
+- Ability to sell from inside vehicl
+
+Update 10/19
+- Added daily loyalty login rewards!
+$5k day 1-5
+$5k-$10k variable day 6-10
+$10k day 11+
+- command /rewards
+- Rewards can be accessed from radial menu > player interactions.
+- Added to radial clothing menu to takeoff/put-on clothing option! Shirt, pant, shoes, and glasses!
 
 Update 10/17
 - Hunting is fully functional.
@@ -22,19 +39,3 @@ Fishing
 - A fishing rod is required to fish! Sold at hunting shop map# 049.
 - Small deposit taken at boat rental guy, to return get close to the rental guy to return and receive deposit.
 - You will need to anchor your boat to fish and un-anchor as well when ready to travel again, command /anchor
-
-10/12
-
-- Added invoices to player F1 radial > Player Interactions.
-- Invoices are fully updated to display correct currency and player names.
-- iFruit store robbery is working as intended again > 1 cop min required.
-
-10/11
-
-Mining Changes
-- Removed all steel, iron, copper and aluminum resources.
-- Added resource Ore Pile
-- Increased mining output slightly
-
-Workbench | Smelter Changes
-- Added process (mined resources) Ore Pile > Metalscrap
