@@ -3,6 +3,27 @@ DISCORD | https://discord.gg/MZUVS97pjP
 
 If no EMT is on use /aimedic
 
+Update 11/09
+Gun crafting phase 2 & 3 is live.
+
+Crafting Bench
+--Weapons-- 
+- Craft Level 5 | Walther P99
+--Weapon Attachments--
+- Craft Level 5 | Pistol Mag
+- Craft Level 5 | Trigger Mechanism
+- Craft Level 5 | Slide Assembly
+- Craft Level 5 | Pistol Frame
+
+House Robbery
+--Loot Table Updated--
+- Add Sniper Ammo
+- Add iPhone 13 Max Pro
+- Add Samsung Z Fold3
+- Add Alienware X17 Gaming Laptop
+- Add Apple iPad Pro
+- Add Pistol Schematic
+
 Update 10/31
 - Added a player informational tablet that can be accessed with F5 key (This is work in progress)
 
@@ -13,33 +34,4 @@ Drug Dealing
 1 . Purchase option
 2. Call cops
 3. Rob/ kill you
-- Ability to sell from inside vehicl
-
-Update 10/19
-- Added daily loyalty login rewards!
-$5k day 1-5
-$5k-$10k variable day 6-10
-$10k day 11+
-- command /rewards
-- Rewards can be accessed from radial menu > player interactions.
-- Added to radial clothing menu to takeoff/put-on clothing option! Shirt, pant, shoes, and glasses!
-
-Update 10/17
-- Hunting is fully functional.
-- Fishing is fully functional.
-
-Hunting
-- Marker for active hunting area located in the mountains map# 167 | 168 | 169.
-- Marker for hunting shop to sell legal leather located at map# 049.
-- No maker for illegal leather sell location... happy hunting! :2302_pepe_tongue: 
-- Legal leather is deer, boar and rabbit | illegal leather is mountain lion, cormorant and chickenhawk.
-- Bait is available in hunting shop.
-- A knife is required to skin your hunt!
-- Different weapon types determine yield quality of pelt.
-
-Fishing
-- Marker for active fishing start area located at Del Perro Pier map# 688.
-- Marker  to sell fish located at map# 696.
-- A fishing rod is required to fish! Sold at hunting shop map# 049.
-- Small deposit taken at boat rental guy, to return get close to the rental guy to return and receive deposit.
-- You will need to anchor your boat to fish and un-anchor as well when ready to travel again, command /anchor
+- Ability to sell from inside vehicle
